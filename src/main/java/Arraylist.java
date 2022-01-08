@@ -1,11 +1,14 @@
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Date;
 
-interface Arraylist {
+interface Arraylist {    ///Class For The List
 
     ArrayList<String> actionList = new ArrayList<>();
-    ArrayList<Double> ilsOutcomeList = new ArrayList<>();
-    ArrayList<Double> eurOutComeList = new ArrayList<>();
+
 void Array();
+
 
 
 
